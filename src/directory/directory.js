@@ -655,7 +655,7 @@ const directory = {
             filters: ['ios']
           },
           {
-            title: 'Record notifications',
+            title: 'Record notification events',
             route: '/lib/push-notifications/record-notifications',
             filters: ['ios']
           },
